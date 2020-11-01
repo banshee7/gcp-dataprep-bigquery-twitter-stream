@@ -1,11 +1,11 @@
 {
-  "GCLOUD_PROJECT": "",
+  "GCLOUD_PROJECT": "twitter-api-1-294120",
   "GOOGLE_APPLICATION_CREDENTIALS": "serviceaccount.json",
   "twitter": {
-    "access_token_key": "",
-    "access_token_secret": "",
-    "consumer_secret": "",
-    "consumer_key": "",
+    "access_token_key": "726283249-HeCBEbPVEzrprDCFsrZPGekb3HJfcRlmy7GeaKyo",
+    "access_token_secret": "s4OVEof0phUTa7IdP1lgPsdJepKb1htXEvRdrwJoBZOPN",
+    "consumer_secret": "c3s8t0ygcwHx07ZCz5YrRUIMI2lf6LxdYJwk0UGoYwStfzIMOu",
+    "consumer_key": "iDQY1RCDP5li6qJC9zCzc3lDU",
     "sample_stream_url": "https://stream.twitter.com/1.1/statuses/sample.json",
     "stream_url": "https://stream.twitter.com/1.1/statuses/filter.json"
   },
